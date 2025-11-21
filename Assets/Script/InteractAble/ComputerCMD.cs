@@ -8,7 +8,7 @@ public class ComputerCMD : InteractAble
 {
     public static ComputerCMD Instance;
     [Header("UI")]
-    public TMP_Text outputText;
+    public TMP_Text outputText, processText;
     public TMP_InputField hiddenInput;
     public ScrollRect scrollRect;
 
@@ -125,7 +125,7 @@ public class ComputerCMD : InteractAble
         }
         else if (cmd == "eat parallel")
         {
-            PrintLine("<color=#00BFFF>Robot Controller/Thread > Executing: Eat Parallel (multi-thread)</color>");
+            PrintLine("<color=#00BFFF>> Executing: Eat Parallel (multi-thread)</color>");
             robot.EatInParallel();
         }
         else if (cmd.StartsWith("stop"))
@@ -164,6 +164,10 @@ public class ComputerCMD : InteractAble
         PrintLine("<color=white>Typing and Press Enter to Execute Code...</color>");
         PrintLine("<color=white>Type: 'dir' to see commands list</color>");
         scrollRect.verticalNormalizedPosition = defaultPosScroll;
+    }
+    public void PrintProcess(string text)
+    {
+        processText.text = text;
     }
 
     void ShowStatus(string text)

@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\huyLamGameUnity\\Demo Thread\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ED93CB56-FE76-1585-CD62-E33A59A64034}|Assembly-CSharp.csproj|d:\\huylamgameunity\\demo thread\\assets\\script\\cakemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED93CB56-FE76-1585-CD62-E33A59A64034}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cakemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED93CB56-FE76-1585-CD62-E33A59A64034}|Assembly-CSharp.csproj|D:\\huyLamGameUnity\\Demo Thread\\assets\\script\\interactable\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED93CB56-FE76-1585-CD62-E33A59A64034}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\interactable\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED93CB56-FE76-1585-CD62-E33A59A64034}|Assembly-CSharp.csproj|D:\\huyLamGameUnity\\Demo Thread\\assets\\script\\interactable\\playerraycastinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED93CB56-FE76-1585-CD62-E33A59A64034}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\interactable\\playerraycastinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ED93CB56-FE76-1585-CD62-E33A59A64034}|Assembly-CSharp.csproj|D:\\huyLamGameUnity\\Demo Thread\\assets\\script\\interactable\\computercmd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED93CB56-FE76-1585-CD62-E33A59A64034}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\interactable\\computercmd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\huyLamGameUnity\\Demo Thread\\Assets\\Script\\Player\\CameraFollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Player\\CameraFollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\huyLamGameUnity\\Demo Thread\\Assets\\Script\\InteractAble\\InteractInterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,22 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{ED93CB56-FE76-1585-CD62-E33A59A64034}|Assembly-CSharp.csproj|D:\\huyLamGameUnity\\Demo Thread\\assets\\script\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED93CB56-FE76-1585-CD62-E33A59A64034}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED93CB56-FE76-1585-CD62-E33A59A64034}|Assembly-CSharp.csproj|D:\\huyLamGameUnity\\Demo Thread\\assets\\script\\cakemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED93CB56-FE76-1585-CD62-E33A59A64034}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cakemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED93CB56-FE76-1585-CD62-E33A59A64034}|Assembly-CSharp.csproj|d:\\huylamgameunity\\demo thread\\assets\\script\\interactable\\playerraycastinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED93CB56-FE76-1585-CD62-E33A59A64034}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\interactable\\playerraycastinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED93CB56-FE76-1585-CD62-E33A59A64034}|Assembly-CSharp.csproj|D:\\huyLamGameUnity\\Demo Thread\\assets\\script\\interactable\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED93CB56-FE76-1585-CD62-E33A59A64034}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\interactable\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\huyLamGameUnity\\Demo Thread\\Assets\\Script\\Player\\CameraFollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Player\\CameraFollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,24 +38,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "PlayerRaycastInteract.cs",
               "DocumentMoniker": "D:\\huyLamGameUnity\\Demo Thread\\Assets\\Script\\InteractAble\\PlayerRaycastInteract.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\InteractAble\\PlayerRaycastInteract.cs",
               "ToolTip": "D:\\huyLamGameUnity\\Demo Thread\\Assets\\Script\\InteractAble\\PlayerRaycastInteract.cs",
               "RelativeToolTip": "Assets\\Script\\InteractAble\\PlayerRaycastInteract.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAoAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T15:37:38.658Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T15:37:38.658Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "InteractAble.cs",
               "DocumentMoniker": "D:\\huyLamGameUnity\\Demo Thread\\Assets\\Script\\InteractAble\\InteractAble.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\InteractAble\\InteractAble.cs",
@@ -63,25 +62,23 @@
               "RelativeToolTip": "Assets\\Script\\InteractAble\\InteractAble.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T15:33:45.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T15:33:45.326Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ComputerCMD.cs",
               "DocumentMoniker": "D:\\huyLamGameUnity\\Demo Thread\\Assets\\Script\\InteractAble\\ComputerCMD.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\InteractAble\\ComputerCMD.cs",
               "ToolTip": "D:\\huyLamGameUnity\\Demo Thread\\Assets\\Script\\InteractAble\\ComputerCMD.cs",
               "RelativeToolTip": "Assets\\Script\\InteractAble\\ComputerCMD.cs",
-              "ViewState": "AgIAAIMAAAAAAAAAAAAAAI8AAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAAAKkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T15:27:04.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T15:27:04.509Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "InteractInterface.cs",
               "DocumentMoniker": "D:\\huyLamGameUnity\\Demo Thread\\Assets\\Script\\InteractAble\\InteractInterface.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\InteractAble\\InteractInterface.cs",
@@ -92,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "CameraFollow.cs",
               "DocumentMoniker": "D:\\huyLamGameUnity\\Demo Thread\\Assets\\Script\\Player\\CameraFollow.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Player\\CameraFollow.cs",
@@ -103,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "D:\\huyLamGameUnity\\Demo Thread\\Assets\\Script\\Player\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Player\\PlayerMovement.cs",
@@ -111,21 +108,24 @@
               "RelativeToolTip": "Assets\\Script\\Player\\PlayerMovement.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T10:28:14.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T10:28:14.296Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "CakeManager.cs",
               "DocumentMoniker": "D:\\huyLamGameUnity\\Demo Thread\\Assets\\Script\\CakeManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\CakeManager.cs",
               "ToolTip": "D:\\huyLamGameUnity\\Demo Thread\\Assets\\Script\\CakeManager.cs",
               "RelativeToolTip": "Assets\\Script\\CakeManager.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAUwFAAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAWwJYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-07T09:51:16.595Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
